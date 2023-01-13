@@ -1,0 +1,3 @@
+a = "legal"
+
+print(a)
